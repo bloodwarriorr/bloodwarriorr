@@ -17,11 +17,9 @@ My name is Kenar Ben Shitrit,and I'm a highly motivated Practical Software Engin
 I'm eager to find my first job as a programmer, got wide in-depth skill set in languages such as JS(Node, React), C#(ASP.Net,WPF), Python, SQL, MongoDB.
 Team player who looks forward working with other people and making big influence. Smart Creative and great Self Learner.
 <br />
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
-<br />
-<br />
-<br />
-<br />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
+
+
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bloodwarrior&show_icons=true&theme=gotham" alt="KenarBenShitrit" />
 
