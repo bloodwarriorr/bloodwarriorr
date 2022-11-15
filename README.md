@@ -13,7 +13,7 @@
 
 
 
-hi, I'm [Kenar Ben Shitrit](https://abhishknads.me/),a highly motivated Practical Software Engineer.
+hi, I'm [Kenar Ben Shitrit](https://bloodwarriorr.me/),a highly motivated Practical Software Engineer.
 I'm eager to find my first job as a programmer, got wide in-depth skill set in languages such as JS(Node, React), C#(ASP.Net,WPF), Python, SQL, MongoDB.
 Team player who looks forward working with other people and making big influence. Smart Creative and great Self Learner.
 
