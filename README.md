@@ -21,10 +21,7 @@ Team player who looks forward working with other people and making big influence
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-
-
-
+  <br />
 📈 my github stats
 
 
