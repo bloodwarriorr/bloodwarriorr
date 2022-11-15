@@ -19,13 +19,8 @@ Team player who looks forward working with other people and making big influence
 
 
 📈 my github stats
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br />
-  
-
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bloodwarrior&show_icons=true&theme=gotham" alt="KenarBenShitrit" />
-
+<br />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 
 
