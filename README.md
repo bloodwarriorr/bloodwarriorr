@@ -21,7 +21,7 @@ Team player who looks forward working with other people and making big influence
 📈 my github stats
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bloodwarrior&show_icons=true&theme=gotham" alt="KenarBenShitrit" />
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=bloodwarriorr&theme=dracula&hide=prs,contribs" alt="Github stats" />
 
 
 
