@@ -18,10 +18,7 @@ I'm eager to find my first job as a programmer, got wide in-depth skill set in l
 Team player who looks forward working with other people and making big influence. Smart Creative and great Self Learner.
 <br />
 
-📈 my github stats
 
-
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=bloodwarriorr&theme=dracula&hide=prs,contribs" alt="Github stats" />
 
 
 
