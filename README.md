@@ -8,7 +8,7 @@
 </a>
 
 
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=bloodwarriorr&repo=bloodwarriorr)
+![](https://api.visitorbadge.io/api/VisitorHit?user=bloodwarriorr&repo=bloodwarriorr&countColor=%237B1E7A)
 <br />
 
 
