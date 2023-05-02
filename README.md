@@ -8,7 +8,7 @@
 </a>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bloodwarrior)
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=bloodwarriorr&repo=bloodwarriorr)
 <br />
 
 
