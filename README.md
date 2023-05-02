@@ -8,7 +8,7 @@
 </a>
 
 
-![](ttps://visitor-badge.glitch.me/badge?page_id=bloodwarrior)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bloodwarrior)
 <br />
 
 
