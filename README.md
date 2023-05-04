@@ -11,6 +11,12 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=bloodwarriorr&repo=bloodwarriorr&countColor=%237B1E7A)
 <br />
 
+
+My name is Kenar Ben Shitrit,and I'm a highly motivated Practical Software Engineer.
+I'm eager to find my first job as a programmer, got wide in-depth skill set in languages such as JS(Node, React), C#(ASP.Net,WPF), Python, SQL, MongoDB.
+Team player who looks forward working with other people and making big influence. Smart Creative and great Self Learner.
+<br />
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -20,10 +26,7 @@
 </p>
 <br />
 
-My name is Kenar Ben Shitrit,and I'm a highly motivated Practical Software Engineer.
-I'm eager to find my first job as a programmer, got wide in-depth skill set in languages such as JS(Node, React), C#(ASP.Net,WPF), Python, SQL, MongoDB.
-Team player who looks forward working with other people and making big influence. Smart Creative and great Self Learner.
-<br />
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bloodwarriorr&show_icons=true&locale=en&layout=compact" alt="bloodwarriorr" /></p>
 
