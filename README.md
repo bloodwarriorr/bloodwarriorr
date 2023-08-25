@@ -1,9 +1,12 @@
 ### hey there! 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/kenar-shitrit/))](https://www.linkedin.com/in/kenar-shitrit/)
+<a href="https://www.instagram.com/kenar_shitrit/">
+  <img align="left" alt="Kenar's LinkedIn" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png?raw=true" />  
+</a>
+
 
 <a href="https://www.instagram.com/kenar_shitrit/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />  
+  <img align="left" alt="Kenar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />  
 </a>
 
 
