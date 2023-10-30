@@ -14,9 +14,9 @@
 <br />
 
 
-My name is Kenar,and I'm a highly motivated Practical Software Engineer.
-I'm eager to find my first job as a programmer, got wide in-depth skill set in languages such as JS(Node, React), C#(ASP.Net,WPF), Python, SQL, MongoDB.
-Team player who looks forward working with other people and making big influence. Smart Creative and great Self Learner.
+My name is Kenar, and I'm a highly motivated Practical Software Engineer.
+Currently, I'm a Backend Developer, Specializing in Asp.net, SQL Server, and Angular.js, I also have a broad in-depth skill set in languages such as JS(Node, React), Python, and MongoDB.
+Team player who looks forward to working with other people and having a significant influence. Smart Creative and a great Self Learner.
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
