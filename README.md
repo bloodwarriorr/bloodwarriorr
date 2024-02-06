@@ -1,4 +1,4 @@
-### hey there! 
+### Hey there! 
 
 <a href="https://www.instagram.com/kenar_shitrit/">
   <img align="left" alt="Kenar's LinkedIn" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png?raw=true" />  
@@ -15,8 +15,8 @@
 
 
 My name is Kenar, and I'm a highly motivated Practical Software Engineer.
-Currently, I'm a Backend Developer, Specializing in Asp.net, SQL Server, and Angular.js, I also have a broad in-depth skill set in languages such as JS(Node, React), Python, and MongoDB.
-Team player who looks forward to working with other people and having a significant influence. Smart Creative and a great Self Learner.
+Currently working as a Backend Developer, Specializing in Asp.net, SQL Server, and Angular.js, I also have a broad in-depth skill set in languages such as JS(Node, React), Python, and MongoDB.
+Team player who looks forward to working with others and having a significant influence. Smart Creative and a great Self Learner.
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
