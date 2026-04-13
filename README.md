@@ -1,45 +1,48 @@
-### Hey there! 
+### Hey there, I'm Kenar! 👋
 
-<a href="https://www.instagram.com/kenar_shitrit/">
-  <img align="left" alt="Kenar's LinkedIn" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png?raw=true" />  
+<p align="left">
+<a href="https://www.linkedin.com/in/kenar-shitrit/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-
-<a href="https://www.instagram.com/kenar_shitrit/">
-  <img align="left" alt="Kenar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />  
+<a href="mailto:kenar529@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+</p>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=bloodwarriorr&repo=bloodwarriorr&countColor=%237B1E7A)
-<br />
 
+---
 
-My name is Kenar, and I'm a highly motivated Practical Software Engineer.
-Currently working as a Backend Developer, Specializing in Asp.net, SQL Server, and Angular.js, I also have a broad in-depth skill set in languages such as JS(Node, React), Python, and MongoDB.
-Team player who looks forward to working with others and having a significant influence. Smart Creative and a great Self Learner.
-<br />
+### 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
+I'm a highly motivated **Practical Software Engineer** and **Fullstack Developer** with a passion for building scalable, AI-driven applications. 
 
-<p align="center">
+Currently, I specialize in architecting robust Backend systems using **C# & ASP.NET Core**, alongside modern Frontend frameworks like **Angular (17-19)**. I have a deep interest in **AI Orchestration** and **Vector Databases**, constantly exploring new ways to bridge the gap between traditional software and Artificial Intelligence.
+
+- 🧠 **Currently Learning:** Semantic Kernel, RAG Architectures, and Vector Search (Qdrant).
+- ⚡ **Key Strengths:** Clean Code (SOLID), Rapid Self-Learning, and a Team-First Mindset.
+- 🛠️ **Experience with:** Node.js, React, Python, MongoDB, and SQL Server.
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,ts,react,angular,nodejs,mongodb,mysql,firebase,heroku,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,react,nodejs,python,html,css,mongodb,mysql,postman,docker,github" />
   </a>
 </p>
-<br />
 
+---
 
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bloodwarriorr&show_icons=true&locale=en&layout=compact" alt="bloodwarriorr" /></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bloodwarriorr&theme=dracula" width="100%" />
+</p>
 
+---
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bloodwarriorr&show_icons=true&locale=en" alt="bloodwarriorr" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bloodwarriorr&" alt="bloodwarriorr" /></p>
-<br><br>
-
-
-
-
+<p align="center">
+  "Smart creative, constant learner, and a true team player."
+</p>
