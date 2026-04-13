@@ -1,4 +1,4 @@
-### Hey there, I'm Kenar! 👋
+### Hey there, I'm Keinar! 👋
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kenar-shitrit/">
